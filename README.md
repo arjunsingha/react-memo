@@ -1,3 +1,7 @@
+# Description
+
+This is an example of react memo. This shows the way how to not rerender the functional components when the prop and state remains the same.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
